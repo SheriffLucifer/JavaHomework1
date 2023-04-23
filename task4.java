@@ -7,7 +7,7 @@ public class task4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int firstNumber, secondNumber, answer;
+        double firstNumber, secondNumber, answer;
         char operation;
 
         System.out.print("Введите первое число: ");
